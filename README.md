@@ -19,7 +19,8 @@ The application supports the following capabilities:
 
 A visual representation of the LangGraph application flow is provided below:
 
-> *(Insert image of the LangGraph schema here)*
+<img width="480" height="580" alt="Capture2" src="https://github.com/user-attachments/assets/763b070e-881c-4994-82da-68d13c902759" />
+
 
 ## Technology Stack
 
